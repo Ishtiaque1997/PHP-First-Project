@@ -16,12 +16,17 @@
     <img src="./logo1.png" alt="">
    </a>
    <ul class='menu'>
-    <li><a href="#">Home</a></li>
+    <li><a href="#"class='active'>Home</a></li>
     <li><a href="#">Features</a></li>
     <li><a href="#">About</a></li>
     <li><a href="#">Contact</a></li>
    </ul>
   </nav>
+  <div class="main-heading">
+   <h1>Create perspectives with virtual reality</h1>
+   <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ea dolore placeat ratione fugit officiis, facere aliquid </p>
+   <a class='main-btn' href="#">Contact</a>
+  </div>
  </section>
 </body>
 </html>
