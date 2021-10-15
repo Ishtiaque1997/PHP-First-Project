@@ -220,3 +220,31 @@ nav ul li a:hover {
 .contact-btn {
   margin-top: 40px;
 }
+@media screen and (max-width: 768px) {
+  .contact {
+    width: 100%;
+    align-items: center;
+    margin-left: 70px;
+    /* margin-right: 300px; */
+  }
+  .main {
+    width: 100%;
+    flex-direction: column;
+  }
+  .feature-container {
+    flex-direction: column;
+    padding-bottom: 100px;
+  }
+  .feature-box {
+    width: 100%;
+  }
+  .about {
+    flex-direction: column;
+  }
+  .about-img {
+    width: 100%;
+  }
+  .about-text {
+    width: 100%;
+  }
+}
